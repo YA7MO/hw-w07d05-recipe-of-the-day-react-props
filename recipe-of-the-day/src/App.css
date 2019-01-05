@@ -1,0 +1,31 @@
+.app{
+font-family: 'Courier New', Courier, monospace;
+}
+
+.block{
+    position: absolute;
+    background-color: #e8e8e8;
+    height: 300px;
+    width: 50%;
+    left: 25%;
+}
+
+.content{
+
+    position: absolute;
+    top:50%;
+}
+
+.ingredientsInfo{
+    position: absolute;
+    top: 65%;
+}
+
+.recipe {
+    position: absolute;
+    background-color: antiquewhite;
+    top: 90%;
+    width: 30%;
+   
+    
+}
